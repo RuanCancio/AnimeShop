@@ -1,0 +1,15 @@
+# Backend
+backend/target/
+backend/.mvn/
+backend/*.log
+
+# Frontend
+frontend/.next/
+frontend/node_modules/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
